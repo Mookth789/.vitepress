@@ -3,7 +3,7 @@
  * @type {import('vitepress').UserConfig}
  */
  module.exports = {
-  title: 'หน้าร้าน',
+  title: 'GMTHc',
   lang: 'zh-CN',
   // base:'/proj/qdpz-docs/',
   description: 'คอมโพเนนต์มือถือเว็บที่พร้อมใช้งานทันที',
