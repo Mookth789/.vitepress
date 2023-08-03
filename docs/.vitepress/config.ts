@@ -3,8 +3,8 @@
  * @type {import('vitepress').UserConfig}
  */
  module.exports = {
-  title: 'GMTHc',
-  lang: 'zh-CN',
+  title: 'GMTH',
+  lang: 'en',
   // base:'/proj/qdpz-docs/',
   description: 'คอมโพเนนต์มือถือเว็บที่พร้อมใช้งานทันที',
   head: createHead(),
