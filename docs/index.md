@@ -10,7 +10,7 @@ features:
   - title: 💡 บรรจุภัณฑ์หลายขั้ว
     details: การบรรจุหีบห่อและการจัดส่งที่รวดเร็ว รองรับแอปเพล็ต WeChat, H5, Android และ IOS ได้อย่างสมบูรณ์แบบ
   - title: ⚡️ กองเทคโนโลยีล่าสุด
-    details: 基于Vue、uniApp、colorUi、uView等最新技术栈开发
+    details: ขึ้นอยู่กับการพัฒนาสแต็กเทคโนโลยีล่าสุด เช่น Vue, uniApp, colorUi, uView เป็นต้น
   - title: 🛠️ 案例丰富
     details: 地图轨迹回放、电子签名、海报编辑器、自定义相机/键盘、图片水印等
   - title: 📦 组件封装
