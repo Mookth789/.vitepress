@@ -6,7 +6,7 @@
   title: 'หน้าร้าน',
   lang: 'zh-CN',
   // base:'/proj/qdpz-docs/',
-  description: '一个开箱即用web移动端组件',
+  description: 'คอมโพเนนต์มือถือเว็บที่พร้อมใช้งานทันที',
   head: createHead(),
   themeConfig: {
     repo: 'jekip/naive-ui-admin',
@@ -14,7 +14,7 @@
     logo: '/logo.png',
     docsBranch: 'main',
     editLinks: true,
-    editLinkText: '为此页提供修改建议',
+    editLinkText: 'แนะนำการเปลี่ยนแปลงในหน้านี้',
     nav: createNav(),
     sidebar: createSidebar(),
   },
